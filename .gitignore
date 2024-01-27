@@ -133,6 +133,6 @@ dmypy.json
 
 # Job scripts
 runs/
-
+data/
 
 experiment_state-2024-01-18_16-45-12.json
