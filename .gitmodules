@@ -1,0 +1,3 @@
+[submodule "MyPyUtil"]
+	path = MyPyUtil
+	url = https://github.com/cloudaipro/MyPyUtil
